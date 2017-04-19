@@ -1,0 +1,6 @@
+package employeeservice;
+
+interface EmployeeService 
+{
+
+}
